@@ -1,0 +1,253 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#">
+    <bib:Book rdf:about="http://www.gutenberg.org/ebooks/36098">
+        <z:itemType>book</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Baudelaire</foaf:surname>
+                        <foaf:givenname>Charles</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <z:translators>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Scott</foaf:surname>
+                        <foaf:givenname>Cyril</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:translators>
+        <link:link rdf:resource="#item_4573"/>
+        <dc:title>The Flowers of Evil</dc:title>
+        <dc:date>May 13, 2011</dc:date>
+        <z:language>English</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.gutenberg.org/ebooks/36098</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2012-11-06 21:17:42</dcterms:dateSubmitted>
+        <z:libraryCatalog>Project Gutenberg</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>EBook-No. 36098</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:rights>Public domain in the USA.</dc:rights>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_4573">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>The Project Gutenberg eBook of The Flowers Of Evil, by Charles Baudelaire.</dc:title>
+        <dcterms:dateSubmitted>2012-11-06 21:18:11</dcterms:dateSubmitted>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.gutenberg.org/files/36098/36098-h/36098-h.htm</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <link:type>text/html</link:type>
+        <link:charset>25</link:charset>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:9780486411835">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Courier Dover Publications</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Boyd</foaf:surname>
+                        <foaf:givenname>John P.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_4531"/>
+        <link:link rdf:resource="#item_4532"/>
+        <link:link rdf:resource="#item_4533"/>
+        <link:link rdf:resource="#item_4534"/>
+        <link:link rdf:resource="#item_4530"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Mathematics / General</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Chebyshev and Fourier Spectral Methods: Second Revised Edition</dc:title>
+        <dcterms:abstract>Completely revised text focuses on use of spectral methods to solve boundary value, eigenvalue, and time-dependent problems, but also covers Hermite, Laguerre, rational Chebyshev, sinc, and spherical harmonic functions, as well as cardinal functions, linear eigenvalue problems, matrix-solving methods, coordinate transformations, spherical and cylindrical geometry, and more. Includes 7 appendices and over 160 text figures.</dcterms:abstract>
+        <dc:date>2001-12-03</dc:date>
+        <z:numPages>690</z:numPages>
+        <z:language>en</z:language>
+        <dc:identifier>ISBN 9780486411835</dc:identifier>
+        <z:shortTitle>Chebyshev and Fourier Spectral Methods</z:shortTitle>
+        <z:libraryCatalog>Google Books</z:libraryCatalog>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_4531">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>aaabook_9500may00.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_4532">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>aaabook_9500toc.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_4533">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>aaabook_references.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_4534">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>errata_dover2dedition.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_4530">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Google Books Link</dc:title>
+        <dcterms:dateSubmitted>2012-11-06 14:12:18</dcterms:dateSubmitted>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://books.google.com.tr/books?id=lEWnQWyzLQYC</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:0521629713">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Cambridge University Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Durbin</foaf:surname>
+                        <foaf:givenname>Richard</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Eddy</foaf:surname>
+                        <foaf:givenname>Sean R.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Krogh</foaf:surname>
+                        <foaf:givenname>Anders</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mitchison</foaf:surname>
+                        <foaf:givenname>Graeme</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_4470"/>
+        <link:link rdf:resource="#item_4471"/>
+        <dc:title>Biological Sequence Analysis: Probabilistic Models of Proteins and Nucleic Acids</dc:title>
+        <dc:date>1998-05-13</dc:date>
+        <z:numPages>356</z:numPages>
+        <dc:identifier>ISBN 0521629713</dc:identifier>
+        <z:shortTitle>Biological Sequence Analysis</z:shortTitle>
+        <z:libraryCatalog>Amazon.com</z:libraryCatalog>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_4470">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Amazon.com Link</dc:title>
+        <dcterms:dateSubmitted>2012-11-02 16:50:02</dcterms:dateSubmitted>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.amazon.com/dp/0521629713</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_4471">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Durbin et al - Biological Sequence Analysis (CUP 2002) no OCR.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="#item_4271">
+        <z:itemType>book</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Frank G. Fiamingo</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_4272"/>
+        <dc:title>Introduction to Unix</dc:title>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_4272">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>unix_book.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:1565921496%209781565921498">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Sebastopol, CA</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>O'Reilly &amp; Associates</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wall</foaf:surname>
+                        <foaf:givenname>Larry</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schwartz</foaf:surname>
+                        <foaf:givenname>Randal L</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Christiansen</foaf:surname>
+                        <foaf:givenname>Tom</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_4250"/>
+        <dc:title>Programming Perl</dc:title>
+        <dcterms:abstract>If Perl itself is the first legend of Larry Wall, this book - affectionately known everywhere as The Camel Book - is the second. If you buy only one book about Perl, no one in the Perl community will question your judgment in buying this one. Contents include an extensive overview of the language and its syntax; a complete reference for all Perl functions, operators, and standard library modules; an explanation of Perl references and complex data structures; a detailed. Account of Perl's object-oriented features; and much more, including efficiency, debugging, invocation options, program security, interprocess communication, autoloading, etc.</dcterms:abstract>
+        <dc:date>1996</dc:date>
+        <z:language>English</z:language>
+        <dc:identifier>ISBN 1565921496 9781565921498</dc:identifier>
+        <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_4250">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>O'Reilly - Programming Perl.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+</rdf:RDF>
